@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/aula5_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/Ping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/Pong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AtorB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/AtorB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TesteEx1$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/TesteEx1$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TesteEx1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/TesteEx1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AtorB$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/AtorB$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AtorA$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/AtorA$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Start$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/Start$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TesteEx1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/TesteEx1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Start.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/Start.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TesteEx1$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/TesteEx1$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AtorA.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/AtorA.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/Pong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/classes/Ping$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
