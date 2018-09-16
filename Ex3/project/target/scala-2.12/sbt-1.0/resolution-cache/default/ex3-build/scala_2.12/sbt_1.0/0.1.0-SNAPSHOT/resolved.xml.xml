@@ -4,7 +4,7 @@
 		module="ex3-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180916210428"
+		publication="20180916211603"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

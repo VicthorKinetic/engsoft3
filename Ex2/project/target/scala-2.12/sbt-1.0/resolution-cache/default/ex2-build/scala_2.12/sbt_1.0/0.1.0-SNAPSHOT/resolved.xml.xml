@@ -4,7 +4,7 @@
 		module="ex2-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180916210304"
+		publication="20180916211226"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

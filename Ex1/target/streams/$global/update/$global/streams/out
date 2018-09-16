@@ -529,15 +529,15 @@
 [0m[[0m[0mdebug[0m] [0m[0mignoring unhandled DependencyDescriptorMediator: class sbt.internal.librarymanagement.IvyScalaUtil$OverrideScalaMediator[0m
 [0m[[0m[0mdebug[0m] [0m[0m	resolved ivy file produced in cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m:: downloading artifacts ::[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.8!akka-actor_2.11.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.11.6!scala-library.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 401ms :: artifacts dl 5ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 562ms :: artifacts dl 6ms[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for aula5#aula5_2.11;1.0 compile produced in /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/resolution-cache/reports/aula5-aula5_2.11-compile.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for aula5#aula5_2.11;1.0 runtime produced in /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/resolution-cache/reports/aula5-aula5_2.11-runtime.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for aula5#aula5_2.11;1.0 test produced in /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/resolution-cache/reports/aula5-aula5_2.11-test.xml[0m
@@ -549,5 +549,5 @@
 [0m[[0m[0mdebug[0m] [0m[0m	report for aula5#aula5_2.11;1.0 plugin produced in /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/resolution-cache/reports/aula5-aula5_2.11-plugin.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for aula5#aula5_2.11;1.0 pom produced in /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/resolution-cache/reports/aula5-aula5_2.11-pom.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for aula5#aula5_2.11;1.0 scala-tool produced in /home/ubuntu/workspace/ListaNota05/Ex1/target/scala-2.11/resolution-cache/reports/aula5-aula5_2.11-scala-tool.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (401ms resolve - 5ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (562ms resolve - 6ms download)[0m
 [0m[[0m[0minfo[0m] [0m[0mDone updating.[0m
